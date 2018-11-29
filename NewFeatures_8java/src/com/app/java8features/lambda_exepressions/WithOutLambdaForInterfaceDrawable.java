@@ -13,6 +13,7 @@ public class WithOutLambdaForInterfaceDrawable {
 			public void draw() {
 				System.out.println("Drawing :"+width+i);
 				
+				
 			}
 
 		};
